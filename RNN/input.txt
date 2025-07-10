@@ -1,0 +1,4 @@
+hello world
+this is a minimal character-level rnn example.
+we are training it to predict the next character in a sequence.
+feel free to add more text here to improve the model.
